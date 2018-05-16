@@ -31,6 +31,17 @@ Install Atom and the Processing Package
 7. The first option should say something like *Run Processing sketches in Atom*. Click on *Install*   
 ![](AtomConfig5.PNG)   
 
+Open and Run a Processing Program
+---------------
+1. Choose *File | Open Folder*
+2. To run the program press *Alt+Ctrl+B* or *Packages | Processing | Run*
+![](AtomConfig8.PNG)   
 
+Configure Atom
+---------------
+1. Choose *Edit | Select Grammar*
+![](AtomConfig6.PNG)  
+2. Choose *Java*   
+![](AtomConfig7.PNG)  
 
 
