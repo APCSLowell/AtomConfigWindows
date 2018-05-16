@@ -34,14 +34,14 @@ Install Atom and the Processing Package
 Open and Run a Processing Program
 ---------------
 1. Choose *File | Open Folder*
-2. To run the program press *Alt+Ctrl+B* or *Packages | Processing | Run*
-![](AtomConfig8.PNG)   
+2. To run the program press *Alt+Ctrl+B* or *Packages | Processing | Run*   
+![](AtomConfig8.PNG)      
 
 Configure Atom
 ---------------
-1. Choose *Edit | Select Grammar*
-![](AtomConfig6.PNG)  
-2. Choose *Java*   
-![](AtomConfig7.PNG)  
+1. Choose *Edit | Select Grammar*   
+![](AtomConfig6.PNG)    
+2. Choose *Java*    
+![](AtomConfig7.PNG)    
 
 
