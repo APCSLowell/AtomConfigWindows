@@ -9,6 +9,18 @@ Install Processing
 2. Extract the compressed folder. It will be named something like `processing-3.3.4-windows64.zip`. One way is to right click on the folder and choose *Extract All*
 3. The extracted folder will have a name like `processing-3.3.4`. Move the folder to a convenient location. One place might be `C:\Program Files`.
 
+Configure the Windows path variable
+---------------
+1. Open Windows *System Properties*
+2. One way is to go to the bottom left of the screen and in the field labeled *Type here to search* type `sysdm.cpl` and press enter  
+![sysdm.cpl](SublimeConfig3.png)
+3. In the *System Properties* window, click on the *Advanced* tab
+4. Click on the *Environment Variables* button
+5. Under *System Variables* scroll down and choose *Path.* Then click on *Edit*  
+6. Click on *New* and then type the path to Processing. It should look something like `C:\Program Files\processing-3.3.4`  
+![sysdm.cpl](SublimeConfig4.png)
+7. Click on *Ok* and *Ok* to exit
+
 Install GitBash
 ---------------
 1. Go to [https://git-scm.com/downloads](https://git-scm.com/downloads) and click on *Windows* under *Downloads*.
