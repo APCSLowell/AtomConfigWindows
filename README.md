@@ -13,12 +13,12 @@ Configure the Windows path variable
 ---------------
 1. Open Windows *System Properties*
 2. One way is to go to the bottom left of the screen and in the field labeled *Type here to search* type `sysdm.cpl` and press enter  
-![sysdm.cpl](SublimeConfig3.png)
+![sysdm.cpl](AtomConfig9.png)
 3. In the *System Properties* window, click on the *Advanced* tab
 4. Click on the *Environment Variables* button
 5. Under *System Variables* scroll down and choose *Path.* Then click on *Edit*  
 6. Click on *New* and then type the path to Processing. It should look something like `C:\Program Files\processing-3.3.4`  
-![sysdm.cpl](SublimeConfig4.png)
+![sysdm.cpl](AtomConfig10.png)
 7. Click on *Ok* and *Ok* to exit
 
 Install GitBash
