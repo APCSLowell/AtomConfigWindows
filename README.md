@@ -20,17 +20,17 @@ Install Atom and the Processing Package
 ---------------
 1. Go to [https://atom.io/](https://atom.io/) and download Atom for Windows. 
 2. Double click the downloaded file. It will have a name like `AtomSetup-x64.exe`.
-3. Click *Yes* to the prompt `Register as default atom:// URI handler?`   
+3. Click *Yes* to the prompt *Register as default atom:// URI handler?*   
 ![](AtomConfig1.PNG)   
-4. Then click on `Install a Package`   
+4. Then click on *Install a Package*   
 ![](AtomConfig2.PNG)   
-5. Click on `Open Installer`   
+5. Click on *Open Installer*   
 ![](AtomConfig3.PNG)   
-6. Type `Processing` in the field under `Install Packages` and click `Packages`   
+6. Type *Processing* in the field under *Install Packages* and click *Packages*   
 ![](AtomConfig4.PNG)   
-7. The first option should say something like `Run Processing sketches in Atom`. Click on `Install`   
+7. The first option should say something like *Run Processing sketches in Atom*. Click on *Install*   
 ![](AtomConfig5.PNG)   
-4. The default configuration works fine, you can click *Yes* or *Next* whenever prompted. (Optional: On the school classroom computers *Add to explorer context menu* was selected on the *Select Additional Tasks* screen)
+
 
 
 
